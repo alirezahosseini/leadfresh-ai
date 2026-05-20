@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-Ready-blue?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/TailwindCSS-Modern-38BDF8?style=for-the-badge&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Framer-Motion-black?style=for-the-badge&logo=framer" />
@@ -102,7 +102,7 @@ Reusable UI structure built with scalable component-driven patterns.
 
 | Technology | Usage |
 |---|---|
-| Next.js 15 | Frontend Framework |
+| VITE v7.3.2 | Frontend Framework |
 | TypeScript | Type Safety |
 | TailwindCSS | Styling System |
 | Framer Motion | Motion & Interactions |
